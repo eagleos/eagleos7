@@ -13,7 +13,7 @@ EagleOS 7.9 说明文档
 # 二、系统安装说明   
 ## EagleOS系统iso文件下载
 请到天翼云盘下载eagleos7.9.iso：
-https://cloud.189.cn/t/22uiyazYrQzq (访问码:0zra)
+需要请私信索取，谢谢！仅供技术研究使用！
 
 ## EagleOS系统安装方式
 - 光盘安装:请将eagleos7.9.iso刻录成光盘，目标服务器设置从光驱启动进行安装。
